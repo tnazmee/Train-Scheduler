@@ -1,0 +1,35 @@
+body {
+    background-image: url("image/29779405-flower-seamless-pattern-can-be-used-for-wallpaper-website-background-textile-printing.jpg");
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgb(124, 3, 70);
+    color: white;
+    margin: 3%;
+}
+
+input, label {
+    width: 100%;
+}
+
+#current-train-form, #add-train-form {
+    border-color: rgb(220, 220, 220);
+    border-style: solid;
+    margin: 3%;
+}
+
+#add-train, #current-train {
+    background-color: rgb(124, 3, 70);
+    color: white;
+}
+
+#submit-button {
+    background-color: rgb(245, 8, 107);
+    color: white;
+    border-style: solid;
+    margin-top: 10px;  
+    border-radius: 5px;
+    border: 2px solid rgb(250, 130, 170);
+}
+
